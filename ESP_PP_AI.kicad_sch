@@ -6346,9 +6346,9 @@
 		)
 		(uuid "12efc48b-2b88-4cbd-b905-0575766b9eda")
 	)
-	(text "JTAG_STP"
+	(text "JTAG_STRP"
 		(exclude_from_sim no)
-		(at 112.522 197.104 0)
+		(at 113.284 197.104 0)
 		(effects
 			(font
 				(size 1.27 1.27)
